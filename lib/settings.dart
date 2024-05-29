@@ -38,9 +38,9 @@ it will call API in background without showing the process and when data availab
   //TODO: Deprecated [We do not recommend using this as this will stop running in few time]
   /// You will find this prefix from firebase console in dynamic link section
   static const String deepLinkPrefix =
-      "https://demo.page.link"; //demo.page.link
+      "https://testebroker.page.link"; //demo.page.link
   ///set anything you want
-  static const String deepLinkName = "ebroker.com"; //deeplink demo.com
+  static const String deepLinkName = "testebroker.com"; //deeplink demo.com
   ///!TODO: End deprecated
 
   static const MapType googleMapType =
