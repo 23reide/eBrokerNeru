@@ -16,7 +16,7 @@ class AppSettings {
   static const String shareAppText = "Share this App";
 
   ///API Setting
-  static const String hostUrl = "HOST URL";
+  static const String hostUrl = "http://broker.luxuryguideinternational.com";
 
   static const int apiDataLoadLimit = 20;
   static const int maxCategoryShowLengthInHomeScreen = 5;
